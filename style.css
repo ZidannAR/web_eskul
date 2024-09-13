@@ -1,0 +1,22 @@
+.judul{
+                    color: green;
+                    font-size: xx-large;
+                }
+                .isi{
+                    color: aqua;
+                }
+                body{
+                    background-color: red;
+                }
+                a {
+                    text-decoration: none;
+                    color: white;
+                }
+                nav{
+                    display: flex;
+                    justify-content: space-evenly;
+                    
+                }
+                a:hover{
+                    color: black;
+                }
